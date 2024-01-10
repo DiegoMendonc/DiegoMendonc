@@ -1,4 +1,5 @@
 ## Olá pessoal, meu nome é Diego Mendonça 😄
+<hr>
 - 🔭 Trabalho na DAF Caminhões Brasil
 - 🌱 Formado em Logística e formando no curso de pós-graduação em MBA Análise de Dados com BI e Big Data.
 - ⚡ Paixão pelo aprendizado, leitura e bons games! 😄
@@ -7,11 +8,13 @@
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>    
-
-### Você também me encontra no:
+<hr>
+<h2>Você também me encontra no:
+</h2> 
 <a href="https://www.linkedin.com/in/diego-mendon%C3%A7a-481756111/">
   <img width="120" height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<hr>
 <!--
 **DiegoMendonc/DiegoMendonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
