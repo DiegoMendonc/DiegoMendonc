@@ -9,7 +9,9 @@
 </div>    
 
 ### Você também me encontra no:
-
+<a href="https://www.linkedin.com/in/diego-mendon%C3%A7a-481756111/">
+  <img width="120" height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <!--
 **DiegoMendonc/DiegoMendonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
