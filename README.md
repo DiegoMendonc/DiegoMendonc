@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### Olá pessoal, meu nome é Diego Mendonça 😄
+- 🔭 Trabalho na DAF Caminhões Brasil
+- 🌱 Formado em Logística e formando no curso de pós-graduação em MBA Análise de Dados com BI e Big Data.
+- 💬 Grande paixão em me aperfeiçoar no segmento da tecnologia do negócio, com os seguintes conhecimentos:
+- ⚡ Python;
+- ⚡ Análise de dados (processo de ETL, ELT);
+- ⚡ Power BI;
+- ⚡ Banco de dados SQL;
+- ⚡ Excel avançado e conhecimento intermediário em VBA.
 <!--
 **DiegoMendonc/DiegoMendonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
