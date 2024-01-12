@@ -4,7 +4,7 @@
 <li>🔭 Trabalho na DAF Caminhões Brasil</li>
 <li>🌱 Formado em Logística e formando no curso de pós-graduação em MBA Análise de Dados com BI e Big Data</li>
 <li>⚡ Paixão pelo aprendizado, leitura e bons games! 😄</li>
-<li>💬 Grande paixão em me aperfeiçoar no segmento da tecnologia do negócio, com os seguintes conhecimentos:</li>
+<li>💬 Grande paixão em me aperfeiçoar no desenvolvimento web e no segmento da tecnologia do negócio, com os seguintes conhecimentos:</li>
 </ul>
 <div display="inline">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
