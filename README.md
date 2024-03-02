@@ -6,7 +6,7 @@
 <li>⚡ Paixão pelo aprendizado, leitura e bons games! 😄</li>
 <li>💬 Grande paixão em me aperfeiçoar no segmento da tecnologia do negócio, análise de dados e machine learning;</li>
 <li>Aprendendo também em contrapartida no desenvolvimento web como hobby; <br>
-<li>Possuo os seguintes conhecimentos:</li>
+<h2>Possuo os seguintes conhecimentos:</h2>
 </ul>
 <div display="inline">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
