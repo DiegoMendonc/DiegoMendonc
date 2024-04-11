@@ -1,7 +1,7 @@
 <h1>Olá pessoal, meu nome é Diego Mendonça 😄</h1>
 <hr>
 <ul>
-<li>🔭 Trabalho na DAF Caminhões Brasil</li>
+<li>🔭 Trabalho na Trizy by nstech</li>
 <li>🌱 Formado em Logística e formando no curso de pós-graduação em MBA Análise de Dados com BI e Big Data</li>
 <li>⚡ Paixão pelo aprendizado, leitura e bons games! 😄</li>
 <li>💬 Grande paixão em me aperfeiçoar no segmento da tecnologia do negócio, análise de dados e machine learning;</li>
