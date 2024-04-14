@@ -2,10 +2,10 @@
 <hr>
 <ul>
 <li>🔭 Trabalho na Trizy by nstech</li>
-<li>🌱 Formado em Logística e formando no curso de pós-graduação em MBA Análise de Dados com BI e Big Data</li>
+<li>🌱 Formado em Logística e formando no curso de pós-graduação em MBA Análise de Dados com BI e Big Data e futuro Engenheiro de Software</li>
 <li>⚡ Paixão pelo aprendizado, leitura e bons games! 😄</li>
-<li>💬 Grande paixão em me aperfeiçoar no segmento da tecnologia do negócio, análise de dados e machine learning;</li>
-<li>Aprendendo também em contrapartida no desenvolvimento web como hobby; <br>
+<li>💬 Grande paixão em me aperfeiçoar no segmento da tecnologia, análise de dados, machine learning, banco de dados e Back-end;</li>
+<li>Aprendendo também em contrapartida no Front-end como hobby; <br>
 <h2>Possuo os seguintes conhecimentos:</h2>
 </ul>
 <div display="inline">
