@@ -2,7 +2,7 @@
 <hr>
 <ul>
 <li>🔭 Trabalho na Cooperativa Frisia Agroindustrial</li>
-<li>🌱 Formado em Logística, graduando em Engenharia de Software e formando no curso de pós-graduação em MBA Análise de Dados com BI e Big Data;</li>
+<li>🌱 Formado em Logística, graduando em Engenharia de Software e pós-graduado no curso em MBA Análise de Dados com BI e Big Data;</li>
 <li>⚡ Paixão pelo aprendizado, leitura e bons games! 😄</li>
 <li>💬 Grande paixão em me aperfeiçoar no segmento da tecnologia, como na área de desenvolvimento de Software e Qualidade de Software;</li>
 <br>
