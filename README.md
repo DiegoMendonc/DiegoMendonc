@@ -3,7 +3,7 @@
 <ul>
 <li>🌱 Formado em Logística, graduando em Sistemas de Informação e pós-graduado no curso em MBA Análise de Dados com BI e Big Data;</li>
 <li>⚡ Paixão pelo aprendizado, leitura e bons games! 😄</li>
-<li>💬 Grande paixão em me aperfeiçoar no segmento da tecnologia</li>
+<li>💬 Grande paixão em me aperfeiçoar no segmento da tecnologia!</li>
 <br>
 <h2>Possuo os seguintes conhecimentos:</h2>
 </ul>
